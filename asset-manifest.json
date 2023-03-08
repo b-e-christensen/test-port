@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-port/static/css/main.abef1be8.css",
+    "main.js": "/test-port/static/js/main.3aa033b9.js",
+    "static/media/summer.jpg": "/test-port/static/media/summer.fc8077839f00307658a2.jpg",
+    "static/media/still-travel.jpg": "/test-port/static/media/still-travel.cbe5b28613a2b072bc8e.jpg",
+    "static/media/budgettly.png": "/test-port/static/media/budgettly.d7eafccfafa33ccd2fc9.png",
+    "static/media/mvc-blog.png": "/test-port/static/media/mvc-blog.a601d85d84e63bfc2125.png",
+    "index.html": "/test-port/index.html",
+    "main.abef1be8.css.map": "/test-port/static/css/main.abef1be8.css.map",
+    "main.3aa033b9.js.map": "/test-port/static/js/main.3aa033b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abef1be8.css",
+    "static/js/main.3aa033b9.js"
+  ]
+}
